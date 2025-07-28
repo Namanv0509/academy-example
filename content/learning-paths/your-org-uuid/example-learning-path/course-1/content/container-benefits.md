@@ -12,7 +12,16 @@ categories: [intermediate]
 
 
 
-![image]({{< usestatic "image-1.png" >}})
+![image](image-1.png)
+
+![image](image-1.p)
+
+![image](image-1)
+
+![image](png)
+
+![image]()
+
 
 
 ### **Container Benefits**
